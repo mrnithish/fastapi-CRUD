@@ -1,3 +1,3 @@
-# fastapi-CRUD
+# Fastapi-CRUD
 Fastapi projects demo
 learning
