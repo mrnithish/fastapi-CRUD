@@ -1,3 +1,3 @@
 # Fastapi-CRUD
-Fastapi projects demo
+Fastapi projects
 
